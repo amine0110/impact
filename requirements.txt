@@ -1,0 +1,4 @@
+monai
+nibabel
+matplotlib
+pycad-medic
